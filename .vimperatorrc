@@ -1,0 +1,13 @@
+:nmap foot :t http://www.lequipe.fr<CR>
+:nmap fb :t https://www.facebook.com<CR>
+:nmap mail :t https://mail.google.com/mail/u/0/#inbox<CR>:t https://mail.google.com/mail/u/1/#inbox<CR>
+:nmap tube :t https://www.youtube.com<CR>
+:nmap mp :t http://www.youtube-mp3.org<CR>
+:nmap issue :t https://github.com/Kozea/hydra/issues?page=1&q=is%3Aissue+is%3Aopen<CR>
+:nmap jenm :t http://jenkins.kozea.org/job/hydra-master/<CR>
+:nmap misc :t https://github.com/Kozea/misc/wiki<CR>
+:nmap hydra :t https://github.com/Kozea/hydra<CR>
+:nmap trad :t https://www.google.fr/search?q=quota+traduction&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb&gfe_rd=cr&ei=2yFrVNrRO8uGOovggMAC#safe=off&rls=org.mozilla:en-US:official&channel=fflb&q=traduction<CR>
+:nmap sprint :t https://github.com/issues?q=is%3Aissue+label%3Asprint<CR>
+:nmap zt :t http://zone-telechargement.com<CR>
+:nmap dev :t https://github.com/Kozea/hydra/issues?q=is%3Aissue+is%3Aopen+-label%3Agraphisme+-label%3Adocument<CR>
