@@ -1,0 +1,20 @@
+[user]
+    email = clement.plasse@kozea.fr
+    name = Clément Plasse
+[alias]
+    b = branch
+    s = status
+    sw = show
+    c = commit
+    ch = checkout
+    cp = cherry-pick
+    a = add
+    d = diff
+    pl = pull
+    ps = push
+    ss = stash save
+    sp = stash pop
+    sc = stash clear
+    sl = stash list
+[push]
+	default = simple
